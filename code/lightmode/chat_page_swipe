@@ -1,0 +1,1334 @@
+        import 'package:flutter/material.dart';
+        
+        
+        class MessangerswipeactionsWidget extends StatefulWidget {
+        @override
+        _MessangerswipeactionsWidgetState createState() => _MessangerswipeactionsWidgetState();
+        }
+        
+        class _MessangerswipeactionsWidgetState extends State<MessangerswipeactionsWidget> {
+        @override
+        Widget build(BuildContext context) {
+        // Figma Flutter Generator MessangerswipeactionsWidget - FRAME
+        
+        return Container(
+      width: 375,
+      height: 812,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 356,
+        left: 20,
+        child: Container(
+      width: 144,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 52,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 11,
+        left: 11,
+        child: Container(
+      width: 17.856992721557617,
+      height: 17.856992721557617,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: -5.6843418860808015e-14,
+        left: 2.2737367544323206e-13,
+        child: SvgPicture.asset(
+        'assets/images/shape.svg',
+        semanticsLabel: 'shape'
+      );
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 104,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 13,
+        left: 9.5,
+        child: Container(
+      width: 21,
+      height: 14,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 11.25,
+        left: 10.25,
+        child: Container(
+      width: 19.5,
+      height: 17.25,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 434,
+        left: 211,
+        child: Container(
+      width: 144,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 13,
+        left: 11,
+        child: Container(
+      width: 18,
+      height: 13.7998046875,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: -2.2737367544323206e-13,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 52,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 10.75,
+        left: 11.5,
+        child: Container(
+      width: 17,
+      height: 19.25,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 104,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 10.25,
+        left: 11,
+        child: Container(
+      width: 18,
+      height: 19.25,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 338,
+        left: 176,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 17,
+        left: 87,
+        child: Text('Andrew Parker', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 39,
+        left: 88,
+        child: Text('You: Ok, thanks! · 9:25 AM 
+', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),Positioned(
+        top: 30,
+        left: 343,
+        child: Container(
+      width: 16,
+      height: 16,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 414,
+        left: -176,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 17,
+        left: 87,
+        child: Text('Maisy Humphrey', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 39,
+        left: 88,
+        child: Text('Have a good day, Jacob! · Fri 
+', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),Positioned(
+        top: 30,
+        left: 343,
+        child: Container(
+      width: 16,
+      height: 16,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 490,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 17,
+        left: 87,
+        child: Text('Karen Castillo', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 39,
+        left: 88,
+        child: Text('You: Ok, See you in To… · Fri
+', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),Positioned(
+        top: 30,
+        left: 343,
+        child: Container(
+      width: 16,
+      height: 16,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 718,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 17,
+        left: 87,
+        child: Text('Maximillian Jacobson', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 39,
+        left: 88,
+        child: Text('Messenger UI · Thu', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 262,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 17,
+        left: 87,
+        child: Text('Martin Randolph', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 39,
+        left: 88,
+        child: Text('You: What’s man! · 9:40 AM 
+', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),Positioned(
+        top: 30,
+        left: 343,
+        child: Container(
+      width: 16,
+      height: 16,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 566,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 17,
+        left: 87,
+        child: Text('Joshua Lawrence', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 39,
+        left: 88,
+        child: Text('The business plan loo…  · Thu 
+', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 156,
+        left: 0,
+        child:  //Mask holder Template
+    Container(
+      width: 375,
+      height: 106,
+      child: null
+    )
+      ),Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 156,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 108,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 108,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 0.6000000238418579),
+  )
+      )
+      ),Positioned(
+        top: 57,
+        left: 68,
+        child: Text('Chats', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Display',
+        fontSize: 30,
+        letterSpacing: 0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2666666666666666
+      ),)
+      ),Positioned(
+        top: 56,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 56,
+        left: 267,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 11.25,
+        left: 10.25,
+        child: Container(
+      width: 19.5,
+      height: 17.25,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 56,
+        left: 319,
+        child: Container(
+      width: 40,
+      height: 40,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 9.25,
+        left: 11.75,
+        child: Container(
+      width: 19.02446937561035,
+      height: 19.06441307067871,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 108,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 48,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 48,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 4,
+        left: 16,
+        child: Container(
+        width: 343,
+        height: 36,
+        decoration: BoxDecoration(
+          borderRadius : BorderRadius.only(
+            topLeft: Radius.circular(10),
+            topRight: Radius.circular(10),
+            bottomLeft: Radius.circular(10),
+            bottomRight: Radius.circular(10),
+          ),
+      color : Color.fromRGBO(0, 0, 0, 0.05000000074505806),
+  )
+      )
+      ),Positioned(
+        top: 10,
+        left: 46,
+        child: Text('Search', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(142, 142, 147, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4099999964237213,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 13.800000190734863,
+        left: 24,
+        child: Container(
+      width: 15.500908851623535,
+      height: 15.701351165771484,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 5.6843418860808015e-14,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 642,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 76,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 76,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  )
+      )
+      ),Positioned(
+        top: 8,
+        left: 16,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 7,
+        left: 88,
+        child: Text('Pixsellz', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 17,
+        letterSpacing: -0.4000000059604645,
+        fontWeight: FontWeight.normal,
+        height: 1.2941176470588236
+      ),)
+      ),Positioned(
+        top: 11.5,
+        left: 153,
+        child: Container(
+      width: 22,
+      height: 15,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 22,
+        height: 15,
+        decoration: BoxDecoration(
+          borderRadius : BorderRadius.only(
+            topLeft: Radius.circular(3),
+            topRight: Radius.circular(3),
+            bottomLeft: Radius.circular(3),
+            bottomRight: Radius.circular(3),
+          ),
+      color : Color.fromRGBO(0, 0, 0, 0.20000000298023224),
+  )
+      )
+      ),Positioned(
+        top: 1,
+        left: 3,
+        child: Text('Ad', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(255, 255, 255, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 11,
+        letterSpacing: 0,
+        fontWeight: FontWeight.normal,
+        height: 1
+      ),)
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 30,
+        left: 88,
+        child: Text('Make design process easier…', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 0.5),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.4285714285714286
+      ),)
+      ),Positioned(
+        top: 51,
+        left: 88,
+        child: Text('View More', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(0, 132, 254, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 14,
+        letterSpacing: -0.15000000596046448,
+        fontWeight: FontWeight.normal,
+        height: 1.1428571428571428
+      ),)
+      ),Positioned(
+        top: 8,
+        left: 299,
+        child: Container(
+        width: 60,
+        height: 60,
+        decoration: BoxDecoration(
+          borderRadius : BorderRadius.only(
+            topLeft: Radius.circular(12),
+            topRight: Radius.circular(12),
+            bottomLeft: Radius.circular(12),
+            bottomRight: Radius.circular(12),
+          ),
+      image : DecorationImage(
+          image: AssetImage('assets/images/Rectangle.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 726,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 86,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 86,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 0.6000000238418579),
+  )
+      )
+      ),Positioned(
+        top: 0,
+        left: 0,
+        child: Divider(
+        color: Color.fromRGBO(166, 166, 170, 1),
+        thickness: 0.33000001311302185
+      )
+      
+      ),Positioned(
+        top: 0,
+        left: 227,
+        child: Container(
+      width: 80,
+      height: 52,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 80,
+        height: 52,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 0.00009999999747378752),
+  )
+      )
+      ),Positioned(
+        top: 14,
+        left: 28.5,
+        child: Container(
+      width: 24,
+      height: 24,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 147,
+        child: Container(
+      width: 80,
+      height: 52,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 80,
+        height: 52,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 0.00009999999747378752),
+  )
+      )
+      ),Positioned(
+        top: 14.001299858093262,
+        left: 25.5,
+        child: Container(
+      width: 29.955106735229492,
+      height: 22.079591751098633,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 1.8686705516302027e-9,
+        left: 0,
+        child: null
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 8,
+        left: 47.5,
+        child: Container(
+      width: 16,
+      height: 16,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/oval.svg',
+        semanticsLabel: 'oval'
+      );
+      ),Positioned(
+        top: 1,
+        left: 4,
+        child: Text('2', textAlign: TextAlign.left, style: TextStyle(
+        color: Color.fromRGBO(90, 212, 57, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 13,
+        letterSpacing: -0.13928571343421936,
+        fontWeight: FontWeight.normal,
+        height: 1
+      ),)
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 67,
+        child: Container(
+      width: 80,
+      height: 52,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 80,
+        height: 52,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 0.00009999999747378752),
+  )
+      )
+      ),Positioned(
+        top: 14,
+        left: 28.5,
+        child: Container(
+      width: 24,
+      height: 24.036991119384766,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: SvgPicture.asset(
+        'assets/images/shape.svg',
+        semanticsLabel: 'shape'
+      );
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 44,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 44,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(247, 247, 247, 1),
+  )
+      )
+      ),Positioned(
+        top: 18,
+        left: 336,
+        child: Container(
+      width: 24.5,
+      height: 10.5,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: null
+      ),Positioned(
+        top: 3.501953125,
+        left: 23,
+        child: null
+      ),Positioned(
+        top: 2,
+        left: 2,
+        child: Container(
+        width: 18,
+        height: 6.5,
+        decoration: BoxDecoration(
+          borderRadius : BorderRadius.only(
+            topLeft: Radius.circular(1),
+            topRight: Radius.circular(1),
+            bottomLeft: Radius.circular(1),
+            bottomRight: Radius.circular(1),
+          ),
+      color : Color.fromRGBO(6, 6, 6, 1),
+  )
+      )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 17.330673217773438,
+        left: 315.6937255859375,
+        child: null
+      ),Positioned(
+        top: 17.66666603088379,
+        left: 293.6666564941406,
+        child: null
+      ),Positioned(
+        top: 14,
+        left: 21,
+        child: Container(
+      width: 54,
+      height: 18,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Text('9:41', textAlign: TextAlign.center, style: TextStyle(
+        color: Color.fromRGBO(23, 23, 23, 1),
+        fontFamily: 'SF Pro Text',
+        fontSize: 15,
+        letterSpacing: -0.30000001192092896,
+        fontWeight: FontWeight.normal,
+        height: 1
+      ),)
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 778,
+        left: 0,
+        child: Container(
+      width: 375,
+      height: 34,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(255, 255, 255, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 375,
+        height: 34,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(247, 247, 247, 1),
+  )
+      )
+      ),Positioned(
+        top: 20,
+        left: 121,
+        child: Container(
+        width: 134,
+        height: 5,
+        decoration: BoxDecoration(
+          borderRadius : BorderRadius.only(
+            topLeft: Radius.circular(100),
+            topRight: Radius.circular(100),
+            bottomLeft: Radius.circular(100),
+            bottomRight: Radius.circular(100),
+          ),
+      color : Color.fromRGBO(6, 6, 6, 1),
+  )
+      )
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    );
+        }
+        }
+        
