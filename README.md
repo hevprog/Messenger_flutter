@@ -15,6 +15,9 @@ For now try to be familiar and learn with the flutter widgets before we proceed 
 # Getting started
 01/05
 The actual flutter files should be in the messenger folder.
+
 Always update your local repo from remote before pushing.
+
 Best to make pull requests instead of pushing directly to main to avoid conflicts.
+
 Reach out to me if you need any help. -Henry
